@@ -8,7 +8,10 @@ Group name: กลุ่มนั้น
 3. นางสาวนริศรา ชัยฤทธิ์ 623021001-9 สถิติ
 
 ### Presentation
-** Canva [Canva](https://www.canva.com/design/DAE7387KNis/vCdMCcmbuVfXvNf1Gqv_wA/view?utm_content=DAE7387KNis&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) **
+** [Canva](https://www.canva.com/design/DAE7387KNis/vCdMCcmbuVfXvNf1Gqv_wA/view?utm_content=DAE7387KNis&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) **
 
 ### Colab
 ** [ProjectDashBoard](https://github.com/PhinyadaPhen/data_viz_2022/blob/main/ProjectDashboard.ipynb) **
+
+### Google data Studio
+** [DashBoard](https://datastudio.google.com/reporting/1288b74c-eaff-4ed3-af5d-74c9ecc2e292) **

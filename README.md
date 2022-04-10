@@ -14,3 +14,15 @@ Group name: กลุ่มนั้น
 
 ### Google data Studio
 ** [DashBoard](https://datastudio.google.com/reporting/1288b74c-eaff-4ed3-af5d-74c9ecc2e292) **
+
+## Final
+Group name: labetalol
+1. **นางสาวภิญญาดา เพ็ญสุข 623021052-2 สารสนเทศสถิติ** 
+2. นายคำแสน แก้วพิภพ 623020761-8 สารสนเทศสถิติ
+3. นางสาวนางสาวชนกานต์ พูลผล 623021046-7 สารสนเทศสถิติ
+
+### Colab
+** [FinalDashBoard](https://github.com/PhinyadaPhen/data_viz_2022/blob/main/FinalDashBoard.ipynb) **
+
+### Google data Studio
+** [DashBoard](https://datastudio.google.com/s/lq8ziMMCPFI) **

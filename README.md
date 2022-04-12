@@ -13,7 +13,7 @@ Group name: กลุ่มนั้น
 ** [ProjectDashBoard](https://github.com/PhinyadaPhen/data_viz_2022/blob/main/ProjectDashboard.ipynb) **
 
 ### Google data Studio
-** [DashBoard](https://datastudio.google.com/reporting/1288b74c-eaff-4ed3-af5d-74c9ecc2e292) **
+** [DashBoard](https://datastudio.google.com/s/mQ4HQCjqSOs) **
 
 ## Final
 Group name: labetalol
